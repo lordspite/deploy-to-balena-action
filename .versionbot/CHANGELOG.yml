@@ -1,4 +1,25 @@
 - commits:
+    - subject: "patch: bump husky from 4.3.8 to 8.0.1"
+      hash: 9ff64c83ca57ccd55c764367f4c2bac120b742f6
+      body: |
+        Bumps [husky](https://github.com/typicode/husky) from 4.3.8 to 8.0.1.
+        - [Release notes](https://github.com/typicode/husky/releases)
+        - [Commits](https://github.com/typicode/husky/compare/v4.3.8...v8.0.1)
+
+        ---
+        updated-dependencies:
+        - dependency-name: husky
+          dependency-type: direct:development
+          update-type: version-update:semver-major
+        ...
+      footer:
+        Signed-off-by: dependabot[bot] <support@github.com>
+        signed-off-by: dependabot[bot] <support@github.com>
+      author: dependabot[bot]
+      nested: []
+  version: 0.13.2
+  date: 2022-08-26T17:12:09.731Z
+- commits:
     - subject: "patch: Change `master` branch to `main` in README"
       hash: fe3ecd4f5f51ba164187b5d87ed5a32492517128
       body: >-
