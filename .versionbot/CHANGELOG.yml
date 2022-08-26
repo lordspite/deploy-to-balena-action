@@ -1,4 +1,26 @@
 - commits:
+    - subject: "patch: bump mocha from 9.2.1 to 10.0.0"
+      hash: 1e575bf31e92e3472d927978dd85a6931bd00417
+      body: |
+        Bumps [mocha](https://github.com/mochajs/mocha) from 9.2.1 to 10.0.0.
+        - [Release notes](https://github.com/mochajs/mocha/releases)
+        - [Changelog](https://github.com/mochajs/mocha/blob/master/CHANGELOG.md)
+        - [Commits](https://github.com/mochajs/mocha/compare/v9.2.1...v10.0.0)
+
+        ---
+        updated-dependencies:
+        - dependency-name: mocha
+          dependency-type: direct:development
+          update-type: version-update:semver-major
+        ...
+      footer:
+        Signed-off-by: dependabot[bot] <support@github.com>
+        signed-off-by: dependabot[bot] <support@github.com>
+      author: dependabot[bot]
+      nested: []
+  version: 0.13.2
+  date: 2022-08-26T17:12:12.563Z
+- commits:
     - subject: "patch: Change `master` branch to `main` in README"
       hash: fe3ecd4f5f51ba164187b5d87ed5a32492517128
       body: >-
