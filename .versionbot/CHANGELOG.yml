@@ -1,4 +1,33 @@
 - commits:
+    - subject: "patch: bump sinon from 11.1.2 to 14.0.0"
+      hash: 1ad55e915af4259112fad16ba2546b9485632591
+      body: >
+        Bumps [sinon](https://github.com/sinonjs/sinon) from 11.1.2 to 14.0.0.
+
+        - [Release notes](https://github.com/sinonjs/sinon/releases)
+
+        - [Changelog](https://github.com/sinonjs/sinon/blob/main/docs/changelog.md)
+
+        - [Commits](https://github.com/sinonjs/sinon/compare/v11.1.2...v14.0.0)
+
+
+        ---
+
+        updated-dependencies:
+
+        - dependency-name: sinon
+          dependency-type: direct:development
+          update-type: version-update:semver-major
+        ...
+      footer:
+        Signed-off-by: dependabot[bot] <support@github.com>
+        signed-off-by: dependabot[bot] <support@github.com>
+      author: dependabot[bot]
+      nested: []
+  version: 0.13.2
+  title: "'patch: bump sinon from 11.1.2 to 14.0.0'"
+  date: 2022-08-26T17:15:27.454Z
+- commits:
     - subject: "patch: Change `master` branch to `main` in README"
       hash: fe3ecd4f5f51ba164187b5d87ed5a32492517128
       body: >-
