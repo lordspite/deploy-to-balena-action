@@ -1,4 +1,19 @@
 - commits:
+    - subject: "chore(deps): update docker/build-push-action digest to e27bcee"
+      hash: 3ef36c07ac91c2f391d43eb3f07426608b58b4e9
+      body: |
+        Update docker/build-push-action to
+
+        Update docker/build-push-action from  to
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Renovate Bot
+      nested: []
+  version: 0.14.0
+  title: "'chore(deps): update docker/build-push-action digest to e27bcee'"
+  date: 2022-09-02T12:35:47.617Z
+- commits:
     - subject: "patch: Change `master` branch to `main` in README"
       hash: fe3ecd4f5f51ba164187b5d87ed5a32492517128
       body: >-
