@@ -1,4 +1,18 @@
 - commits:
+    - subject: "chore(deps): update docker/login-action digest to 21f251a"
+      hash: de6e631468dfa4e926df916730daacc380b56b3d
+      body: |
+        Update docker/login-action to
+
+        Update docker/login-action from  to
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Renovate Bot
+      nested: []
+  version: 0.14.0
+  date: 2022-09-09T01:47:47.119Z
+- commits:
     - subject: "patch: Change `master` branch to `main` in README"
       hash: fe3ecd4f5f51ba164187b5d87ed5a32492517128
       body: >-
